@@ -1,3 +1,10 @@
+
+# REAL ESTATE ANALYSIS
+
+
+![WhatsApp Image 2024-01-17 at 00 10 02_55bb06ab](https://github.com/sheddiboo/Real-Estate-Analysis-/assets/114742986/95a1fed2-f82c-4511-991c-78aa0f0db0cb)
+
+
 ## Dataset Description
 
 Fields
@@ -147,3 +154,7 @@ Stamford takes the top spot in the 2021 ranking, having previously secured secon
 
 
 ![Most_2021](https://github.com/sheddiboo/Real-Estate-Analysis-/assets/114742986/6afc75cd-6b7f-407f-b60b-1688ee732422)
+
+
+## Conclusion 
+Our exploration reveals a lively property market filled with fluctuating values, different types of properties, and varying selling times. Interestingly, the difference between official valuations and actual selling prices points to a complex relationship between them and market forces. Further investigation could uncover the specific reasons behind these trends for different property types and locations.
